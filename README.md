@@ -49,22 +49,6 @@ coluna = meio % colunas;
 
 > 💡 A busca binária compensa quando a matriz é **ordenada uma vez** e **consultada várias vezes**.
 
-## 🚀 Como executar
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/Projeto-Busca-em-Matrizes.git
-
-# Entre na pasta
-cd Projeto-Busca-em-Matrizes
-
-# Compile
-g++ main.cpp -o busca
-
-# Execute
-./busca
-```
-
 ## 💻 Exemplo de uso
 
 ```
